@@ -12,6 +12,8 @@ Huffman encoding implementation for text compression. Built the algorithm from s
 ```
 download and run with jupyter , create a .venv if needed for kernel
 ```
+## time spent
+1h44 -> kinda bad
 
 ## References
 
